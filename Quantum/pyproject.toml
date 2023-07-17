@@ -1,0 +1,20 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "axect", email = "axect@outlook.kr"},
+]
+dependencies = [
+    "qiskit[visualization]>=0.43.2",
+    "pennylane>=0.31.0",
+    "numpy>=1.23.5",
+    "matplotlib>=3.7.2",
+    "setuptools>=68.0.0",
+    "notebook>=6.5.4",
+    "qiskit-ibm-provider>=0.6.1",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
