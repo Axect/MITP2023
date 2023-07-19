@@ -1,0 +1,18 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "axect", email = "axect@outlook.kr"},
+]
+dependencies = [
+    "notebook>=6.5.4",
+    "torch>=2.0.1",
+    "numpy>=1.25.1",
+    "matplotlib>=3.7.2",
+    "setuptools>=68.0.0",
+]
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
