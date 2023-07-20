@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 tutorial-2-data/
+MITP2023_Bayes/
+wandb/
