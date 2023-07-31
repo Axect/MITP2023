@@ -14,6 +14,8 @@ dependencies = [
     "notebook>=6.5.4",
     "qiskit-ibm-provider>=0.6.1",
     "scikit-learn>=1.3.0",
+    "torch>=2.0.1",
+    "pennylane-qulacs>=0.29.0",
 ]
 requires-python = ">=3.11"
 readme = "README.md"
