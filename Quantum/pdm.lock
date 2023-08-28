@@ -6,7 +6,7 @@ groups = ["default"]
 cross_platform = true
 static_urls = false
 lock_version = "4.3"
-content_hash = "sha256:d20ff07a19feb7ca7f5b0078303394c120678b86efe49aa432a4816377b276f7"
+content_hash = "sha256:b7098560db231e59816b08cc07be2f824f1c64f2a6fae23950ba05b4b086aa53"
 
 [[package]]
 name = "anyio"
@@ -1342,7 +1342,7 @@ files = [
 
 [[package]]
 name = "notebook"
-version = "7.0.0"
+version = "7.0.2"
 requires_python = ">=3.8"
 summary = "Jupyter Notebook - A web-based notebook environment for interactive computing"
 dependencies = [
@@ -1353,8 +1353,8 @@ dependencies = [
     "tornado>=6.2.0",
 ]
 files = [
-    {file = "notebook-7.0.0-py3-none-any.whl", hash = "sha256:71b4e695e658763a2766613176491854708fb46fbe7664bf5e494deeeab92d60"},
-    {file = "notebook-7.0.0.tar.gz", hash = "sha256:38b55e6939df0ba73b53212c3b234e41102f1789e0158606cedaebf00abef6c8"},
+    {file = "notebook-7.0.2-py3-none-any.whl", hash = "sha256:c77b1499dc9b07ce4f4f26990dcb25b2107b434f2536766b51a72a4228d9a4b6"},
+    {file = "notebook-7.0.2.tar.gz", hash = "sha256:d70d6a07418c829bd5f54337ce993b7105261d9026f9d3fe68e9b8aa1a20da9a"},
 ]
 
 [[package]]
